@@ -166,7 +166,7 @@ I'm a firm believer that the best magic is the magic you **share** — open sour
 - 🌲 My favorite tree is a gradient-boosted one.
 - 🐧 `sudo` is the closest thing to a real spell. Use responsibly.
 - 🤗 I believe a well-tuned *small* model beats a lazy big one.
-- ☕ `while not converged: drink_coffee()`
+- 🥤 `while not converged: drink_mountain_dew()`
 ---
  
 <div align="center">
